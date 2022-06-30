@@ -28,4 +28,4 @@ An API to store payments registration using MongoDB. After following the steps m
     npm run start
 ```
 
-To check if it's everything ready to go, make a get request on http://localhost:5000/check you should receive back a "mate!" message.
+To check if it's everything ready to go, make a get request on [http://localhost:5000/check](http://localhost:5000/check) you should receive back a "mate!" message.
