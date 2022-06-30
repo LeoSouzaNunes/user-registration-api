@@ -1,6 +1,6 @@
 # wunder-user-registration-api
 
-    An API to store payments registration using MongoDB. After following the steps make sure to run the front-end, you can find it [here](https://bitbucket.org/leosouzanunes/wunder-user-registration/src/main/)
+An API to store payments registration using MongoDB. After following the steps make sure to run the front-end, you can find it [here](https://bitbucket.org/leosouzanunes/wunder-user-registration/src/main/).
 
 ## How to run
 
@@ -28,4 +28,4 @@
     npm run start
 ```
 
-To check if it's everything ready to go, make a get request on http://localhost:5000/check you receive back a "mate" message.
+To check if it's everything ready to go, make a get request on http://localhost:5000/check you receive back a "mate!" message.
